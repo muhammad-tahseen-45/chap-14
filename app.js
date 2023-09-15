@@ -1,6 +1,6 @@
 // array
 
-// var vclass = ["shair", "tahseen", "rizwan", true,896];
+// var vclass = ["khaliq", "tahseen", "rizwan", true,896];
 
 // vclass.splice(2,1)
 
@@ -10,7 +10,7 @@
 //  vclass.pop();
 // console.log(vclass);
 
-// vclass.push("smandar khan")
+// vclass.push("ishtiaq")
 // console.log(vclass);
 
 // vclass.shift();
@@ -37,7 +37,7 @@
 
 // 8
 
-var sname = ["sahir", "tahseen", "sharjeel"];
+var sname = ["umar", "tahseen", "sharjeel"];
 var score = [320, 230, 480];
 
 var pcent = (score[0] / 500) * 100;
@@ -79,4 +79,20 @@ colourname.shift();
 
 console.log(colourname);
 
-// e
+// 15
+
+var arr = [“This ”, “ is ”, “ my ”, “ cat”];
+var combinedString = Arr.join("");
+
+console.log(combinedString);
+
+
+
+
+
+
+
+
+
+
+
